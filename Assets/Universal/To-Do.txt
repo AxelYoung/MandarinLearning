@@ -1,0 +1,2 @@
+- Create categories for each word and place them in seperate sections that can be selected.
+- Create sentence structures that can be randomly generated with different words.

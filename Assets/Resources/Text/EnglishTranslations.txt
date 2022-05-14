@@ -1,0 +1,153 @@
+"Lesson 1"
+_Formal version of you
+_Surname
+_What is your surname?
+_Li (Chinese surname)
+_Mr.
+_Wang (Chinese surname)
+_I, me
+_To be called
+_To be good
+_To be
+_America
+_Country
+_Person
+_Particle (yes/no?)
+_Not
+_England
+_You
+_What?
+_Full name
+_Which
+_Particle (and you?)
+_Taiwan
+_He
+_She
+_China
+_Who
+_Ethnic Chinese
+"Lesson 2"
+_Good morning
+_Zhao (Chinese surname)
+_Miss
+_Zhang (Chinese surname)
+_Long time no see
+_To be a long time
+_To see, to meet
+_Particle (!, answer assumed)
+_Very
+_Thank you
+_Also
+_This
+_Mrs., wife
+_Plural
+_Weather
+_To be hot
+_To be busy
+_Too
+_To go
+_To attend class
+_Goodbye
+_To be cold
+"Lesson 3"
+_To like
+_To watch, to read
+_Movie
+_TV
+_All, both
+_To have
+_Not (have)
+_To want
+_Automobile, car
+_Vehicle, car
+_To buy
+_To be good-looking
+_But
+_To be expensive
+_Book
+_Japan
+_Pen
+_Germany
+_Newspapers
+_France
+_Language
+_Chinese language
+_Thing
+_To know, to understand
+"Lesson 4"
+_MW for stick-like obj
+_How much, how many
+_Many, more
+_Few, less
+_Money
+_Kind, type
+_One
+_Two
+_Three
+_Four
+_Five
+_Six
+_Seven
+_Eight
+_Nine
+_Ten
+_MW for dollar
+_A few, several; How many
+_Two
+_Change, coins
+_Zero
+_To give
+_To invite; to request (please)
+_To give change after purchase
+_To give change after purchase
+_MW for people or anything
+_And, together with
+_MW for cup of
+_Altogether
+_Dime, ten cents
+_Cent
+_Half
+_Polite MW for people
+_MW for books (a volume)
+_That
+"Lesson 5"
+_Home, family
+_Father
+_Mother
+_Possesive or modifying particle
+_Photograph, picture
+_A suffix
+_Teacher
+_To be correct, right
+_MW for photograph, paper, table
+_Older brother
+_Or
+_Younger brother
+_Girl
+_Female
+_Woman
+_Girlfriend
+_Child
+_A noun suffix
+_Older sister
+_Friend
+_These
+_Some, a few
+_Those
+_Some, some of
+_Father's older brother
+_MW for vehicles
+_MW for certain animals or pairs
+_Cat
+_Daughter
+_Son
+_Son
+_Boyfriend
+_Male
+_Man
+_Boy
+_Dog
+_Student
+_Study
+_Younger sister
+_Cup
